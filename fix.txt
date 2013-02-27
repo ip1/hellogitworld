@@ -1,6 +1,6 @@
 At the beginning, client side
 Trainer making changes
 JUNK ON RED
-A line changed server side
+A line changed server side RED
 Make another server change
 Put something at the bottom of the file on the server side
