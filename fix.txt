@@ -1,4 +1,0 @@
-At the beginning, client side
-Trainer making changes
-Make another server change
-Put something at the bottom of the file on the server side
